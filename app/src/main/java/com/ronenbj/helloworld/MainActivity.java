@@ -22,7 +22,7 @@ public class MainActivity extends ActionBarActivity {
         mainButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mainTextView.setText("You Clicked It!!!");
+                mainTextView.setText("You Clicked It, Yeah!!!");
             }
         });
     }
